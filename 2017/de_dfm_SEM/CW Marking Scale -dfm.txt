@@ -1,0 +1,37 @@
+﻿Development Framework and Methods (DFM)
+CW Marking Scale:
+
+Section A:	30 marks
+- Produce a management summary w. advantages/drawbacks + examples from the Case Study (NightWatch).
+	Scale:
+	- Business Case short description:					5 marks.
+	- DSDM Atern methodology short description:				8 marks.
+	- DSDM Atern analysis (adv/disadvantages):				8 marks.
+	- Proof/Analysis of DSDM Atern suitability to business scenario:		6 marks.
+	- Short conclusion:							3 marks.
+
+Section B:  40 marks
+B.1:	{20 marks}	Review the ‘high level requirements’ list.
+	Scale:
+	- Each "high level" (business) requirements:			2 marks.
+	- Each business requirement with proper explanation:		2 marks.
+		
+B.2:	{20 marks}	Use the MoSCoW rules to prioritise the requirements in your updated ‘high level requirements list’.
+	Scale:
+	- Complete 8 - 10 business requirements:					4 marks.
+	- Complete classification of 4 groups using MoSCoW rules (w explanation):		4 x 4 marks.
+
+Section C:	30 marks
+C.1:	{15 marks}	NW needs to start considering Legal, Social, Ethical and Professional Issues (LSEPI) in relation to its day-to-day operations.  They also need to appoint a Data Controller. Produce a management summary explaining (a) the role of the Data Controller within the organisation and (b) any legal, social, ethical and professional issues that NW may be faced with. As a part of your answer to (b) provide two practical examples from the case study that relate to each aspect of LSEPI.
+	Scale:
+	- Proper explanation of LSEP issues:					1 x 4 marks.
+	- Proper examples (2) for each of LSEP issue:				2 x 4 marks.
+	- Explanation of roles/responsibilities of data controller:			3 marks.
+
+C.2:	{15 marks}	Produce a management summary outlining the purpose of the BCS Code of Conduct.
+	Scale:
+	- Business purpose of BCS' code of conducts:				3 marks.
+	- Explanation of BCS' code of conducts:					3 marks.
+	- Explanation of adv/disadvantages of BCS' code of conducts:			3 marks.
+	- Examples (proofs) of value of BCS' code of conducts:			3 marks.
+	- Conclusion:							3 marks.
